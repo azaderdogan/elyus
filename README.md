@@ -6,6 +6,7 @@
 Bu proje Yazılım Mühendisliği Güncel Konular dersi için geliştirilmiştir.
 
 Veri seti: https://drive.google.com/drive/folders/1rFN_iSeAKstfWonKxtRcye67UWXFBDrl
+<br>
 Video: https://youtu.be/Ice7wn8OTe8
 
 
