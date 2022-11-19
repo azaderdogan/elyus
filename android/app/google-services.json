@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "437365214494",
+    "project_id": "grasaasmobil",
+    "storage_bucket": "grasaasmobil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437365214494:android:f8029613a95ff76cedcd0f",
+        "android_client_info": {
+          "package_name": "com.example.chat_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437365214494-49kkqf8vvab770r88uhd684db9d3g2fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYNZTrTIEeRnyLe5L5UUIJA70O-pScbwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437365214494-49kkqf8vvab770r88uhd684db9d3g2fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437365214494:android:94558b74bdc5d1e1edcd0f",
+        "android_client_info": {
+          "package_name": "com.example.grasaasmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437365214494-49kkqf8vvab770r88uhd684db9d3g2fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYNZTrTIEeRnyLe5L5UUIJA70O-pScbwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437365214494-49kkqf8vvab770r88uhd684db9d3g2fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
